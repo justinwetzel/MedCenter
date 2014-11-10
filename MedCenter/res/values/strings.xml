@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MedCenter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patient_home">PatientHome</string>
+    <string name="title_activity_view_note">ViewNoteActivity</string>
+    <string name="title_activity_pharmacist_home">PharmacistHomeActivity</string>
+
+</resources>
